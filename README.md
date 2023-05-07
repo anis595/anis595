@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/dWesBcTLavkZuG35MI" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/webdesign-webtasrimi-gitialmarketing-dWesBcTLavkZuG35MI">via GIPHY</a></p>"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
  
