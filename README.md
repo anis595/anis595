@@ -1,4 +1,8 @@
-### Hi there 👋
+ ![Cover](media/template (1).png)
+
+ 
+ 
+ ### Hi there 👋
 
 ## Je m'appel Anis, je suis de Croix en France.
 Je suis actuellement à la recherche d'une entreprise qui pourrait m'acceuillir et me laisser une chance!
