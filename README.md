@@ -23,7 +23,7 @@
 **Anciennement photographe, j'ai toujours été attiré par l'image et c'est tout naturellement que le FrontEnd m'a ouvert les bras.**
 
 **Si vous avez besoin de plus d'informations, n'hésitez pas à me contacter.**
-
+<h2 align="center"> Stack </h2>
 
 
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
