@@ -3,7 +3,7 @@
 <img src="./assets/Banner.png" alt="">
 </div>
 
-### Shalom, Salam, Salut ! 👋
+<h1 style="font-weight: 700; font-size:x-large">Shalom, Salam, Salut ! 👋</h1>
 
 **Je m'appelle Anis et je suis de Croix en France. Actuellement, je suis à la recherche d'une entreprise qui pourrait m'accueillir. Par ailleurs, je vous invite à découvrir ma personnalité et mon travail sur mon Github.**
 
