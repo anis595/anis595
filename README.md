@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 # Je m'appel Anis, je suis de Croix en France.
-# Je suis actuellement à la recherche d'une entreprise qui pourrait m'acceuillir et me laisser une chance!
-# Mise à part ça, je vous invite à voguer sur mon Github pour découvrir ma personalité et mon travail.
-# Anciennement photographe j'ai toujours été attirer par l'image, c'est tout naturellement que le FrontEnd m'a ouvert les bras!
-# Si vous avez besoin de plus d'information n'hésité à me contacter! 
+Je suis actuellement à la recherche d'une entreprise qui pourrait m'acceuillir et me laisser une chance!
+ Mise à part ça, je vous invite à voguer sur mon Github pour découvrir ma personalité et mon travail.
+ Anciennement photographe j'ai toujours été attirer par l'image, c'est tout naturellement que le FrontEnd m'a ouvert les bras!
+ Si vous avez besoin de plus d'information n'hésité à me contacter! 
 
 ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
