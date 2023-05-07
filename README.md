@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Je m'appel Anis, je suis de Croix en France.
+## Je m'appel Anis, je suis de Croix en France.
 Je suis actuellement à la recherche d'une entreprise qui pourrait m'acceuillir et me laisser une chance!
  Mise à part ça, je vous invite à voguer sur mon Github pour découvrir ma personalité et mon travail.
  Anciennement photographe j'ai toujours été attirer par l'image, c'est tout naturellement que le FrontEnd m'a ouvert les bras!
