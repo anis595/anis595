@@ -5,15 +5,13 @@
 
 <h1 style="font-weight: 700; font-size:x-large">Shalom, Salam, Salut ! 👋</h1>
 
-**Je m'appelle Anis et je suis de Croix en France.**  :round_pushpin: 
+**My name is Anis and I am from Croix, France.** 📍
 
+**Currently, I am looking for a company that could welcome me. I invite you to discover my personality and my work on my Github.**
 
+**Formerly a photographer, I have always been attracted to images and it was natural for FrontEnd to welcome me.**
 
-**Actuellement, je suis à la recherche d'une entreprise qui pourrait m'accueillir. Par ailleurs, je vous invite à découvrir ma personnalité et mon travail sur mon Github.**
-
-**Anciennement photographe, j'ai toujours été attiré par l'image et c'est tout naturellement que le FrontEnd m'a ouvert les bras.**
-
-**Si vous avez besoin de plus d'informations, n'hésitez pas à me contacter.**
+**If you need more information, please do not hesitate to contact me.**
 
 <a href="www.linkedin.com/in/anis-ghedabnia">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
