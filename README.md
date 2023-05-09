@@ -5,7 +5,10 @@
 
 <h1 style="font-weight: 700; font-size:x-large">Shalom, Salam, Salut ! 👋</h1>
 
-**Je m'appelle Anis et je suis de Croix en France.  :round_pushpin: <!-- -->
+**Je m'appelle Anis et je suis de Croix en France.  :round_pushpin: 
+
+
+
 Actuellement, je suis à la recherche d'une entreprise qui pourrait m'accueillir. Par ailleurs, je vous invite à découvrir ma personnalité et mon travail sur mon Github.**
 
 **Anciennement photographe, j'ai toujours été attiré par l'image et c'est tout naturellement que le FrontEnd m'a ouvert les bras.**
