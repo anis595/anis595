@@ -13,9 +13,7 @@
 
 **If you need more information, please do not hesitate to contact me.**
 
-<a href="www.linkedin.com/in/anis-ghedabnia">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
+
 
 <h2 align="center"> STACK </h2>
 
