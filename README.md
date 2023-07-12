@@ -1,6 +1,6 @@
 <div align="center">
  
-<img src="./assets/Banner.png" alt="">
+<img src="./assets/template (1).png" alt="" />
 </div>
 
 <h1 style="font-weight: 700; font-size:x-large">Shalom, Salam, Salut ! 👋</h1>
