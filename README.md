@@ -1,7 +1,5 @@
 <div align="center">
 
-# Shalom, Salam, Salut ! 👋
-
 ### Moi, c'est Anis — Data Analyst en formation chez M2i
 
 **🎯 Je recherche un stage en Data Analyse du 15 mars au 26 mai 2027**  
