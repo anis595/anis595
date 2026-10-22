@@ -1,32 +1,46 @@
 <div align="center">
- 
 
+# Shalom, Salam, Salut ! 👋
 
-<h1 style="font-weight: 700; font-size:x-large">Shalom, Salam, Salut ! 👋</h1>
+### Moi, c'est Anis — Data Analyst en formation chez M2i
 
-**My name is Anis and I am from Croix, France.** 📍
+**🎯 Je recherche un stage en Data Analyse du 15 mars au 26 mai 2027**  
+📍 Lille & Hauts-de-France
 
-**Currently, I am looking for a company that could welcome me. I invite you to discover my personality and my work on my Github.**
+[LinkedIn](https://www.linkedin.com/in/anis-ghedabnia/) · [Mes projets](#-projets-à-découvrir)
 
-**Formerly a photographer, I have always been attracted to images and it was natural for FrontEnd to welcome me.**
+</div>
 
-**If you need more information, please do not hesitate to contact me.**
+---
 
+## 👋 À propos
 
+J'ai commencé par apprendre la **photographie et la vidéo en autodidacte**, puis j'ai développé mon activité audiovisuelle **HOKODREAM**, notamment autour du drone FPV.
 
-<h2 align="center"> STACK </h2>
+Mon parcours m'a ensuite conduit au **développement web**, avant de m'orienter vers l'**analyse de données**. Ce qui me motive : **transformer des données brutes en informations compréhensibles et utiles à la prise de décision**.
 
-![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+Aujourd'hui, je me forme au métier de **Data Analyst chez M2i**. J'apprends par la pratique, en construisant des projets et en cherchant à comprendre chaque étape, de la collecte des données à leur interprétation.
+
+## 🛠️ Compétences techniques
+
+**Data :** Python · pandas · SQL · PostgreSQL  
+**Développement et outils :** API REST · FastAPI · Git · GitHub  
+**Parcours précédent :** JavaScript · TypeScript · Angular · Java
+
+> En formation : cette liste reflète les outils que j'ai étudiés ou utilisés dans mes projets, pas une prétention à les maîtriser tous au même niveau.
+
+## 📂 Projets à découvrir
+
+| Projet | Ce qu'il montre |
+| --- | --- |
+| **[VéloVille](https://github.com/anis595/veloville_bloc2)** | Projet de formation : contrôle et import de CSV, PostgreSQL, API FastAPI, indicateurs SQL et interface Streamlit. |
+| **[HOKODREAM Analytics](https://github.com/anis595/hokodream-analytics)** 🚧 | Mon projet fil rouge : analyser les performances de contenus sur les réseaux sociaux. **En construction** : cadrage et structure du projet en place ; pipeline et tableaux de bord à développer. |
+| **[Portfolio SQL](https://github.com/anis595/Portfolio-SQL)** | Exercices SQL : jointures, regroupements, calculs d'indicateurs et vues. |
+
+## 🤝 Échangeons
+
+Je souhaite rejoindre une équipe pour **apprendre sur des données réelles, progresser et contribuer à des analyses concrètes**.
+
+**Stage recherché : du 15 mars au 26 mai 2027 — Lille & Hauts-de-France.**
+
+📩 [Me contacter sur LinkedIn](https://www.linkedin.com/in/anis-ghedabnia/)
